@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="dune2.gif">
+  <img alt="Demo" src="dune2.png">
 </div>
 
 <br/>
@@ -23,10 +23,11 @@ This project was built using these technologies.
 I give all music credit to <a href="https://pixabay.com/">Pixabay.com</a>
 
 ## How to play the drum? 
-1. You can either click the buttons with your mouse or press the key on your keyboard.
-2. Even if it calls drum, the corelate sound may play longer than you anticipated.
-3. When you press multiple button, and you don't feel like the music harmony is aweful and too noizy, please reload the window.
-4. * Sorry, I am not a musician, so the sound combination might not please your ears. 
+1. You can either click the buttons with your mouse or press the keys on your keyboard to play the sounds.
+2. Note that the sound may continue to play longer than expected, so be prepared for extended sounds.
+3. If you press multiple buttons and find the resulting music to be unpleasant or too noisy, simply reload the window to start fresh.
+
+* I'm not a musician, so the sound combinations may not be pleasing to everyone's ears.
 
 
 ## Show your support
