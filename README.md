@@ -2,7 +2,7 @@
   Java Script: Interactive Dune Part 2 Themed Drum <br/>
 </h2>
 
-<h3>
+<h3 align="center">
   Interactive Object + Higher Order Function + Event Listener + Callback Function
 </h3>
 
