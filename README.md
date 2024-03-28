@@ -14,7 +14,7 @@ Click  <a href="https://hannah-moon.github.io/15_JS_Dune2_Drum/">here</a> to try
 
 ## Built With
 <p align="left"><img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,nodejs"> </a> </p>
-When writing JavaScript, I coded along with Dr.Angela Yu and utilized "Interactive Object + Higher Order Function + Event Listener + Callback Function."
+When writing JavaScript, I coded along with <a href="https://twitter.com/yu_angela?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Dr.Angela Yu<a/> and utilized "Interactive Object + Higher Order Function + Event Listener + Callback Function."
 
 ## Music credit 
 I give all music credit to <a href="https://pixabay.com/music/">Pixabay.com</a>
