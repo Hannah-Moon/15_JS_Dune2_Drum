@@ -1,7 +1,10 @@
 <h2 align="center">
   Java Script: Interactive Dune Part 2 Themed Drum <br/>
-  Interactive Object + Higher Order Function + Event Listener + Callback Function
 </h2>
+
+<h3>
+  Interactive Object + Higher Order Function + Event Listener + Callback Function
+</h3>
 
 <div align="center">
   <img alt="Demo" src="dune2.png">
