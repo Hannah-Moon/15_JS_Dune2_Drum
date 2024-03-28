@@ -1,5 +1,6 @@
 <h2 align="center">
   Java Script: Interactive Dune Part 2 Themed Drum <br/>
+  Interactive Object + Higher Order Function + Event Listener + Callback Function
 </h2>
 
 <div align="center">
