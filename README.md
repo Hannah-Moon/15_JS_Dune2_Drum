@@ -13,14 +13,11 @@ You can fork this repo to modify and make changes of your own.
 Click  <a href="https://hannah-moon.github.io/13_ALAB-316.2.1_Interacting-with-the-Browser/">here</a> to try your answer on the live demo site. 
 
 ## Built With
-This project was built using these technologies.
-
-- JavaScript: Interactive Object + Higher Order Function + Event Listener + Callback Function
-- HTML
-- CSS
+<p align="left"><img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,nodejs"> </a> </p>
+When writing JavaScript, I coded along with Dr.Angela Yu and utilized "Interactive Object + Higher Order Function + Event Listener + Callback Function."
 
 ## Music credit 
-I give all music credit to <a href="https://pixabay.com/">Pixabay.com</a>
+I give all music credit to <a href="https://pixabay.com/music/">Pixabay.com</a>
 
 ## How to play the drum? 
 1. You can either click the buttons with your mouse or press the keys on your keyboard to play the sounds.
