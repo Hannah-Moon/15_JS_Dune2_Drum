@@ -8,7 +8,7 @@
 
 <br/>
 
-## TL;DR
+## Live Demo
 You can fork this repo to modify and make changes of your own. 
 Click  <a href="https://hannah-moon.github.io/15_JS_Dune2_Drum/">here</a> to try your answer on the live demo site. 
 
