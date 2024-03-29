@@ -23,7 +23,7 @@ When writing JavaScript, I coded along with <a href="https://twitter.com/yu_ange
 ## Music credit 
 I give all music credit to <a href="https://pixabay.com/music/">Pixabay.com</a>
 
-## How to play the drum? 
+## How to play the <a href="https://hannah-moon.github.io/15_JS_Dune2_Drum/">drum</a>? 
 1. You can either click the buttons with your mouse or press the keys on your keyboard to play the sounds.
 2. Note that the sound may continue to play longer than expected, so be prepared for extended sounds.
 3. If you press multiple buttons and find the resulting music to be unpleasant or too noisy, simply reload the window to start fresh.
